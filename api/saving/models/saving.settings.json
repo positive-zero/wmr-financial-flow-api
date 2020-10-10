@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "savings",
+  "info": {
+    "name": "Saving",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "totalSaved": {
+      "type": "decimal"
+    },
+    "name": {
+      "type": "string"
+    },
+    "user": {
+      "plugin": "admin",
+      "model": "user"
+    },
+    "target": {
+      "type": "decimal"
+    }
+  }
+}

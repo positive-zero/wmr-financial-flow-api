@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "movements",
+  "info": {
+    "name": "Movement",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "concept": {
+      "type": "string"
+    },
+    "amount": {
+      "type": "decimal"
+    },
+    "user": {
+      "plugin": "admin",
+      "model": "user"
+    }
+  }
+}

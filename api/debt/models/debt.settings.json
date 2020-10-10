@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "debts",
+  "info": {
+    "name": "Debt",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "person": {
+      "type": "string"
+    },
+    "debt": {
+      "type": "decimal"
+    },
+    "user": {
+      "plugin": "users-permissions",
+      "model": "user"
+    }
+  }
+}
