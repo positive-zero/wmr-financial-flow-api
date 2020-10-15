@@ -14,7 +14,11 @@
       "name": "Apache 2.0",
       "url": "https://www.apache.org/licenses/LICENSE-2.0.html"
     },
+<<<<<<< HEAD
     "x-generation-date": "10/15/2020 6:53:03 PM"
+=======
+    "x-generation-date": "10/15/2020 2:40:03 PM"
+>>>>>>> 855fd3f2ff39ec023064db8be91a15c3a571388d
   },
   "x-strapi-config": {
     "path": "/documentation",
@@ -3734,9 +3738,12 @@
                 "type": "string"
               }
             }
+<<<<<<< HEAD
           },
           "published_at": {
             "type": "datetime"
+=======
+>>>>>>> 855fd3f2ff39ec023064db8be91a15c3a571388d
           }
         }
       },
@@ -3751,9 +3758,12 @@
           "user": {
             "type": "string"
           },
+<<<<<<< HEAD
           "published_at": {
             "type": "datetime"
           },
+=======
+>>>>>>> 855fd3f2ff39ec023064db8be91a15c3a571388d
           "created_by": {
             "type": "string"
           },
@@ -3770,7 +3780,11 @@
           "id": {
             "type": "string"
           },
+<<<<<<< HEAD
           "name": {
+=======
+          "concept": {
+>>>>>>> 855fd3f2ff39ec023064db8be91a15c3a571388d
             "type": "string"
           },
           "amount": {
@@ -3817,15 +3831,22 @@
                 "type": "string"
               }
             }
+<<<<<<< HEAD
           },
           "published_at": {
             "type": "datetime"
+=======
+>>>>>>> 855fd3f2ff39ec023064db8be91a15c3a571388d
           }
         }
       },
       "NewMovement": {
         "properties": {
+<<<<<<< HEAD
           "name": {
+=======
+          "concept": {
+>>>>>>> 855fd3f2ff39ec023064db8be91a15c3a571388d
             "type": "string"
           },
           "amount": {
@@ -3834,9 +3855,12 @@
           "user": {
             "type": "string"
           },
+<<<<<<< HEAD
           "published_at": {
             "type": "datetime"
           },
+=======
+>>>>>>> 855fd3f2ff39ec023064db8be91a15c3a571388d
           "created_by": {
             "type": "string"
           },
@@ -3903,9 +3927,12 @@
           },
           "target": {
             "type": "number"
+<<<<<<< HEAD
           },
           "published_at": {
             "type": "datetime"
+=======
+>>>>>>> 855fd3f2ff39ec023064db8be91a15c3a571388d
           }
         }
       },
@@ -3923,9 +3950,12 @@
           "target": {
             "type": "number"
           },
+<<<<<<< HEAD
           "published_at": {
             "type": "datetime"
           },
+=======
+>>>>>>> 855fd3f2ff39ec023064db8be91a15c3a571388d
           "created_by": {
             "type": "string"
           },

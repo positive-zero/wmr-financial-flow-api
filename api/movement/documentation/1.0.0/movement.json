@@ -522,7 +522,11 @@
           "id": {
             "type": "string"
           },
+<<<<<<< HEAD
           "name": {
+=======
+          "concept": {
+>>>>>>> 855fd3f2ff39ec023064db8be91a15c3a571388d
             "type": "string"
           },
           "amount": {
@@ -569,15 +573,22 @@
                 "type": "string"
               }
             }
+<<<<<<< HEAD
           },
           "published_at": {
             "type": "datetime"
+=======
+>>>>>>> 855fd3f2ff39ec023064db8be91a15c3a571388d
           }
         }
       },
       "NewMovement": {
         "properties": {
+<<<<<<< HEAD
           "name": {
+=======
+          "concept": {
+>>>>>>> 855fd3f2ff39ec023064db8be91a15c3a571388d
             "type": "string"
           },
           "amount": {
@@ -586,9 +597,12 @@
           "user": {
             "type": "string"
           },
+<<<<<<< HEAD
           "published_at": {
             "type": "datetime"
           },
+=======
+>>>>>>> 855fd3f2ff39ec023064db8be91a15c3a571388d
           "created_by": {
             "type": "string"
           },
