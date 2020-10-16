@@ -569,12 +569,6 @@
                 "type": "string"
               }
             }
-<<<<<<< HEAD
-          },
-          "published_at": {
-            "type": "datetime"
-=======
->>>>>>> 855fd3f2ff39ec023064db8be91a15c3a571388d
           }
         }
       },
@@ -589,12 +583,6 @@
           "user": {
             "type": "string"
           },
-<<<<<<< HEAD
-          "published_at": {
-            "type": "datetime"
-          },
-=======
->>>>>>> 855fd3f2ff39ec023064db8be91a15c3a571388d
           "created_by": {
             "type": "string"
           },
